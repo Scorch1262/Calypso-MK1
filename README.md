@@ -1,4 +1,4 @@
-# Calypso-MK1
+# Calypso-MK2
 
  Funktionen (Software V1.2) [F]:
 - MCC UART1 Funktion (9600 Baud)
